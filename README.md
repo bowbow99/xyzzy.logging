@@ -14,6 +14,16 @@ NetInstaller から
 
   [カフェイン中毒]: http://bowbow99.sakura.ne.jp/xyzzy/packages.l
 
+
+依存するライブラリ
+==================
+- [condition-restart](http://github.com/bowbow99/xyzzy.condition-restart)
+- [symbol-macrolet](http://github.com/bowbow99/xyzzy.symbol-macrolet)
+- [typecase](http://github.com/bowbow99/xyzzy.typecase)
+
+あと cmu_loop 使ってます。
+
+
 設定
 ====
 
